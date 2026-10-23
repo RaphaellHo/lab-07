@@ -92,6 +92,7 @@ fun UpcomingRacesScreen(navController: NavController) {
             }
         }
 
+
         // list to display races
         LazyColumn {
             items(races) { race ->
